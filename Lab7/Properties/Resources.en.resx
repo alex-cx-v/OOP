@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuFile" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="MenuNew" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="MenuOpen" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="MenuSave" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="MenuExit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="MenuEdit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="MenuFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="MenuAlignLeft" xml:space="preserve">
+    <value>Align Left</value>
+  </data>
+  <data name="MenuAlignCenter" xml:space="preserve">
+    <value>Align Center</value>
+  </data>
+  <data name="MenuAlignRight" xml:space="preserve">
+    <value>Align Right</value>
+  </data>
+  <data name="MenuInsertImage" xml:space="preserve">
+    <value>Insert Image</value>
+  </data>
+  <data name="MenuLanguage" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="MenuEnglish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="MenuUkrainian" xml:space="preserve">
+    <value>Ukrainian</value>
+  </data>
+  <data name="MenuSyntax" xml:space="preserve">
+    <value>Syntax</value>
+  </data>
+  <data name="MenuSyntaxHighlight" xml:space="preserve">
+    <value>Highlight C/C++</value>
+  </data>
+  <data name="MsgRestart" xml:space="preserve">
+    <value>The application will restart to change the language.</value>
+  </data>
+  <data name="DocTitle" xml:space="preserve">
+    <value>Document</value>
+  </data>
+</root>
